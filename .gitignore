@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/hsqldb/dermtest.log
+/hsqldb/dermtest.properties
+/hsqldb/dermtest.script
